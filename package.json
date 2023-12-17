@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danger-noodles-58/lifehack.git"
+    "url": "git+https://github.com/a-hend/LifeHx.git"
   },
   "author": "Abe Henderson, Daniel Park, George Greer, Adrian Kormier",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danger-noodles-58/lifehack/issues"
+    "url": "https://github.com/a-hend/LifeHx/issues"
   },
-  "homepage": "https://github.com/danger-noodles-58/lifehack/blob/main/README.md",
+  "homepage": "https://github.com/a-hend/LifeHx/blob/main/README.md",
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.20.2",
